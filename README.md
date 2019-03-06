@@ -10,6 +10,8 @@ The program allows you to edit values for number and clicks and the (targeted) i
 
 You can download the executable without the source code using [this link.](https://drive.google.com/file/d/1PVwGVkrQjZPGdzOxgfVZffhfMwv4ibES/view?usp=sharing)
 
+Otherwise, you can get the source code on the clone/download drop-down or through the releases tab.
+
 Current Version: v1.0
 
 ## To-Do
